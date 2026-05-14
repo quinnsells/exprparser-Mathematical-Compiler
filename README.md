@@ -1,17 +1,20 @@
 # About the Project
 
 ## Overview
-This project is about creating a simple compiler for C++ for EECS 348. It focuses on an Arithmetic Expression Evaluator in C++ using the Unified Process for Education.
+exprparser is a CLI-based C++ arithmetic compiler built from scratch with an attractive UI. It computes mathematical exressions using correct order of operations using operators +, -, *, /, %, **. 
+
+This is the term project for EECS 348 (Software Engineering) at The University of Kansas School of Engineering. This project was completed using the UPEDU templeate/standard.
 
 ## Getting Started
 - C++
 - Bash Shell
+- Python (testing)
 - Git
 
 ## Installation
 1. Clone the repository
-2. Compile the program
-3. Execute the program
+2. Compile the program using the Makefile
+3. Execute the program (./exprparser)
 
 ## Usage
 (This will come later when we have a working compiler)
@@ -20,9 +23,9 @@ This project is about creating a simple compiler for C++ for EECS 348. It focuse
 - [x] Project plan
 - [x] Software requirements
 - [x] Architecture design
-- [ ] Test cases
-- [ ] Use cases
-- [ ] Bug fixes
+- [x] Test cases
+- [x] Use cases
+- [x] Bug fixes
 
 ## Authors and Contributors
 Quinn Sells, Hudson Rupp, Logan Sigg, Lauren Wesely, Collin Rawson, Jacob Harmsen
