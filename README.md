@@ -16,9 +16,6 @@ This is the term project for EECS 348 (Software Engineering) at The University o
 2. Compile the program using the Makefile
 3. Execute the program (./exprparser)
 
-## Usage
-(This will come later when we have a working compiler)
-
 ## Roadmap
 - [x] Project plan
 - [x] Software requirements
